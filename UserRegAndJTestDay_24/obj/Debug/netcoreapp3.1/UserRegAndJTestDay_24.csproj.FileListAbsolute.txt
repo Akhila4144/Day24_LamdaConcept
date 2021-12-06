@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.exe
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.deps.json
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.dll
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\bin\Debug\netcoreapp3.1\UserRegAndJTestDay_24.pdb
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.dll
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.pdb
+C:\Users\Raj Nani\source\repos\UserRegAndJTestDay_24\UserRegAndJTestDay_24\obj\Debug\netcoreapp3.1\UserRegAndJTestDay_24.genruntimeconfig.cache
